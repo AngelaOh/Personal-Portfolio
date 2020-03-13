@@ -1,0 +1,16 @@
+.Home {
+    /* background-color: beige; */
+    height: 1000;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+div.container {
+    height: 600px;
+}
+
+img {
+    height: 300px;
+    border-radius: 8px;
+}
+

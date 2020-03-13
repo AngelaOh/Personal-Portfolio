@@ -1,0 +1,14 @@
+.Topbar {
+    font-family: 'Amiri', 'serif';
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: #f8f9fa;
+}
+
+/* .btn-toolbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} */

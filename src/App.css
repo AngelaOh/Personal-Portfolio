@@ -1,8 +1,24 @@
 .App {
   text-align: center;
+  font-family: 'Inter';
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
-.App-logo {
+.navbar.navbar-expand-lg {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+/* 
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+} */
+
+
+/* TODO: read thru below for effects, came with origin react app download */
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +51,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
